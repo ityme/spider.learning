@@ -10,6 +10,7 @@ desktop.ini          # Windows 文件夹配置
 # =================================================================
 .vscode/             # VS Code 个人设置（通常不建议提交）
 !.vscode/extensions.json # 建议保留：推荐的插件列表
+.zed/
 .idea/               # IntelliJ IDEA 运行配置与缓存
 *.swp                # Vim 临时交换文件
 *.swo

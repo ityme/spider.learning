@@ -9,7 +9,7 @@ url = "https://www.acfun.cn/v/ac48226867"
 # 请求头配置，模拟浏览器访问
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0",
-    "Referer": "https://www.bilibili.com/",  # 设置来源页面，避免防盗链
+    "Referer": "https://www.acfun.cn/",  # 设置来源页面，避免防盗链
 }
 
 

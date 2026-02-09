@@ -20,7 +20,7 @@ class LoginMail163:
             "prefs",
             {"profile.managed_default_content_settings.images": 2},
         )
-
+        
         # 隐藏“正在受到自动软件的控制”信息栏
         options.add_experimental_option("excludeSwitches", ["enable-automation"])
         # 关闭自动化扩展
